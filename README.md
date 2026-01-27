@@ -14,12 +14,6 @@ A responsive multi-page website built using HTML and CSS to practice front-end d
 - HTML5
 - CSS3
 
-## Project Structure
-- Home page
-- How Anime is Made section
-- Big Three Anime & Manga page
-- Anime Gallery
-- Feedback form
 
 ## Screenshots
 
