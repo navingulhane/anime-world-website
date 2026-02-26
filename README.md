@@ -40,4 +40,4 @@ A responsive multi-page website built using HTML and CSS to practice front-end d
 Built as a learning project to strengthen front-end development skills and understand layouts, styling, and multi-page navigation.
 
 ## How to Run
-Download the project and open index.html in your browser.
+Download the project and open index.html in your browser....
